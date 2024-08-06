@@ -13,7 +13,6 @@
  
 
 ## About Me:
-🌎 Citizen of the world. 
 
 🎓 Constructor Academy
 
@@ -43,6 +42,6 @@
 
 ## Please check out some of my projects!
 
-[Flower Empower](https://github.com/MuliMaor/SlappyBear)<br>
-[Luna](https://github.com/MuliMaor/Mini-Muncher)<br>
-[Motion](https://www.newgrounds.com/portal/view/700066)
+[Flower Empower](https://github.com/JosieJosieJosie96/FlowerEmpower)<br>
+[Luna](https://github.com/JosieJosieJosie96/LunaProject)<br>
+[Motion](https://github.com/JosieJosieJosie96/Motion)
