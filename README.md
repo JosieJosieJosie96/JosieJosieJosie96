@@ -40,7 +40,8 @@
 </div>
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 https://www.codewars.com/users/Josie96/badges/small
-![Codewars](https://github.r2v.ch/codewars?user=Josie96&stroke=RED)
+<br>
+![Codewars](https://github.r2v.ch/codewars?user=Josie96)
 <br>
 
 ## Please check out some of my projects!
