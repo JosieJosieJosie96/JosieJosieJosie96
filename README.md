@@ -38,6 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" style="width: 35px; height: 35px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" style="width: 35px; height: 35px;">
 </div>
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 https://www.codewars.com/users/Josie96/badges/small
 <br>
 
