@@ -42,6 +42,7 @@
 https://www.codewars.com/users/Josie96/badges/small
 <br>
 ![Codewars](https://github.r2v.ch/codewars?user=Josie96)
+![Codewars](https://github.r2v.ch/codewars?user=Josie96)
 <br>
 
 ## Please check out some of my projects!
