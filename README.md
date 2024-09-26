@@ -7,9 +7,7 @@
     <a href="https://www.linkedin.com/in/josie-fessey/">
       <img src="https://img.shields.io/badge/-JosieFessey-blue?style=flat&logo=Linkedin&logoColor=white" width="100" alt="Josie Fessey LinkedIn Badge"/>
       </a>
-      <a href=https://www.codewars.com/users/Josie96/badges/small/">
-        <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" width="100" alt="Josie Fessey Codewars Badge"/>
-    </a>
+
       <div align="center">
   <a href="#"><img src="https://img.freepik.com/premium-photo/professional-woman-working-multiple-computer-screens-desk-ai-generated-stock-image_561855-15882.jpg?w=1060" width="600" height="300" clickable=false/></a>
 </div>
@@ -41,8 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" style="width: 35px; height: 35px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" style="width: 35px; height: 35px;">
 </div>
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-https://www.codewars.com/users/Josie96/badges/small
 <br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=Josie96)
