@@ -8,7 +8,6 @@
       <img src="https://img.shields.io/badge/-JosieFessey-blue?style=flat&logo=Linkedin&logoColor=white" width="100" alt="Josie Fessey LinkedIn Badge"/>
       </a>
 
-      <div align="center">
   <a href="#"><img src="https://img.freepik.com/premium-photo/professional-woman-working-multiple-computer-screens-desk-ai-generated-stock-image_561855-15882.jpg?w=1060" width="600" height="300" clickable=false/></a>
 </div>
  
