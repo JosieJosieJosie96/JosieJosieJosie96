@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <div id="badges">
+  <div id="badges"> linkedin 
     <a href="https://www.linkedin.com/in/josie-fessey/">
       <img src="https://img.shields.io/badge/-JosieFessey-blue?style=flat&logo=Linkedin&logoColor=white" width="100" alt="Josie Fessey LinkedIn Badge"/>
       </a>
