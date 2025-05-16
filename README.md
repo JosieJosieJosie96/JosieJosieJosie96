@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Josie Fessey, Full Stack Developer 👩‍💻</strong></h1>
+  <h1><strong>Josie Fessey, Developer 👩‍💻</strong></h1>
 </div>
 
 <div id="header" align="center">
